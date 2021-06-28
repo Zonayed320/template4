@@ -1,0 +1,231 @@
+
+
+@media all and (max-width:1200px) {
+    .fix-width {
+        max-width: 100%;
+        width: 100%;
+    }
+    .watch-video iframe {
+        width: 100%;
+    }
+    .title h1 {
+        font-size: 45px;
+    }
+    .title p {
+        font-size: 22px;
+    }
+    .service-content .service-box {
+        width: 45%;
+    }
+    .prising-item {
+        width: 30%;
+    }
+    .pricing-header h1 {
+        padding: 11px 0px;
+        font-size: 40px;
+    }
+    .prising-list ul li {
+        font-size: 1.3rem;
+        line-height: 34px;
+    }
+    .pricing-header p {
+        padding-bottom: 14px;
+        font-size: 16px;
+    }
+
+
+
+}
+@media all and (max-width:952px) {
+    .prising-item {
+        width: 46%;
+        margin-bottom: 22px;
+    }
+
+    .form-title p {
+        font-size: 17px;
+    }
+
+
+}
+@media all and (max-width:800px) {
+    .watch-heading h1 {
+        font-size: 30px;
+    }
+    .watch-heading p {
+        line-height: 24px;
+        font-weight: 300;
+        margin-top: 27px;
+    }
+    .title h1 {
+        font-size: 33px;
+    }
+    .title p {
+        font-size: 20px;
+    }
+    .team-sectin .team-item {
+        width: 48%;
+        margin-bottom: 23px;
+    }
+    .sub-title .title h1 {
+        font-size: 2.6rem;
+    }
+    .sub-title .title p {
+        font-size: 18px;
+    }
+
+    .sub-left {
+        width: 100%;
+    }
+    .sub-input {
+        margin-bottom: 21px;
+        display: block;
+        width: 100%;
+    }
+    .sub-right {
+        width: 100%;
+    }
+    .sub-btn {
+        padding: 0px 93px;
+        margin: 0;
+        width: 99%;
+        display: block;
+    }
+
+
+    .reporting-left {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 21px;
+    }
+    .reporting-right {
+        width: 100%;
+        text-align: center;
+        padding: 0px 29px;
+    }
+    .reporting-part {
+        width: 100%;
+    }
+    .testimonial-content p {
+        font-size: 15px;
+    }
+    .testimonial-content {
+        background-color: #fff;
+        padding: 29px 22px;
+        margin-bottom: 30px;
+    }
+    .testimonial-content p::before {
+        top: -27px;
+        left: -15px;
+        font-size: 41px;
+    }
+    .testimonial-image .image {
+        width: 70px;
+        height: 70px;
+    }
+    .image-title h3 {
+        font-size: 16px;
+    }
+    .image-title p {
+        font-size: 14px;
+    }
+    .contact-sectioon .contact-content .map {
+        width: 100%;
+    }
+    .contact-sectioon .contact-content .form {
+        width: 100%;
+        padding: 106px 30px;
+    }
+
+
+
+}
+@media all and (max-width:750px) {
+    .banner-section {
+        padding: 100px 0px;
+    }
+    .banner-part h1 {
+        font-size: 47px;
+    }
+    .prising-item {
+        width: 100%;
+    }
+    .prising-list ul li {
+        line-height: 51px;
+    }
+    .pricing-header h1 {
+        padding: 26px 0px;
+        font-size: 40px;
+    }
+
+
+
+
+
+}
+@media all and (max-width:718px) {
+    .header-start {
+        width: 100%;
+        text-align: center;
+        position: relative;
+        height: 32px;
+    }
+    .header-start-logo {
+        float: none;
+        position: absolute;
+        left: 46%;
+        top: -5px;
+        width: 51px;
+    }
+    
+    .header-start-title h1 {
+        display: none;
+    }
+    .header-middle {
+        width: 69%;
+        text-align: right;
+    }
+    .header-menu ul {
+        text-align: right;
+    }
+    .button-section {
+        text-align: left;
+    }
+    .header-end {
+        width: 31%;
+    }
+    .service-content .service-box {
+        width: 94%;
+    }
+    
+
+
+
+
+}
+
+@media all and (max-width:650px) {
+    .watch-left {
+        width: 100%;
+    }
+    .watch-right {
+        width: 100%;
+        text-align: center;
+        padding-top: 31px;
+        padding-bottom: 30px;
+    }
+    .testimonial-item {
+        width: 100%;
+        margin-left: 3%;
+        margin-bottom: 35px;
+    }
+    
+
+
+}
+@media all and (max-width:524px) {
+    .team-sectin .team-item {
+        width: 95%;
+        margin: 20px 2%;
+    }
+}
